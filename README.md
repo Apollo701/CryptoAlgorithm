@@ -1,5 +1,5 @@
 Welcome to Jason Dorn, and Jordan Guinn's cryptoalgorithm program for csc 650.
-
+Testing 1. 2.
 Our cryptoprogram will follow the following steps:
 1) open a plain .txt file
 2) read the file into the program
